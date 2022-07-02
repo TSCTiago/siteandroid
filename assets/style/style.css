@@ -120,8 +120,9 @@ main h1 {
     background-image: linear-gradient(to left, var(--cor0), var(--cor2));
     margin-bottom: 10px;
 }
-
-
+.exemple{
+    text-align: center;
+}
 main h2 {
     
     color: var(--cor4);
